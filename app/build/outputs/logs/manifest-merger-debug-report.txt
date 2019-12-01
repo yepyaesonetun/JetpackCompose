@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b52c6e7eccf1f152602bef89f7658ab5/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b0e54812cc9f0454d1c4431f9954f45f/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/d83eaaa8fc7bad587a35f2dcd3ffe781/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/cb4bab86ccd66a2b7f82d748ed6a5ec6/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4a21ef2a2469c19dd111280fec8166f2/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ad16c0fa29ddcb1b69cad9c2fc574ff9/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/9ce1d02f2c24d19c81abbccee2e3d82a/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/0449876e7d471c389e9a72a597219b3b/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/1c02d209847d702ce29c7c7af34f6742/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/c707cb468f958b6be05f9c1d5fd371e1/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/7236fb4b99b6491ad00b4cd99253e1fc/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b79dedb5b87ab1b30ea5deb84dc741b0/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/897dd27a8ff33836b67bd884b72044e8/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8d14093946a073a4655ca35a7d20f1f8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/f507181fc56365c0e09b2d5e5e9150f4/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8dd726b7b38a20cb5439029404037432/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/29c63355b84aafd0d65415988c4f121a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/84481a51f7bd7fa9c1e5c9d2876c2c86/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/7b8ea8a4aeace5812a3aec9d402ef2a3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/cb41912cdb6d65cf600cef7673183ca1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4ee484d12199ddbca52b3b8e85387145/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/c78de3a4955ec4a25b23e0d11d36db40/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/d27f6085b840924dd4e0fca7d41f4d8c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/226cef7af3f65d8e1feb6e2a265f88bf/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/449265d721c92ff5d2b38e2788274c92/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4bc44d24a4a8a06933969626556211ed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b48270677902f21678d6f6c28a2c62f2/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ad16c0fa29ddcb1b69cad9c2fc574ff9/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ad16c0fa29ddcb1b69cad9c2fc574ff9/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.prime.ypst.jetpackcompose.MainActivity
+ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b52c6e7eccf1f152602bef89f7658ab5/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b52c6e7eccf1f152602bef89f7658ab5/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b0e54812cc9f0454d1c4431f9954f45f/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b0e54812cc9f0454d1c4431f9954f45f/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/d83eaaa8fc7bad587a35f2dcd3ffe781/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/d83eaaa8fc7bad587a35f2dcd3ffe781/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/cb4bab86ccd66a2b7f82d748ed6a5ec6/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/cb4bab86ccd66a2b7f82d748ed6a5ec6/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4a21ef2a2469c19dd111280fec8166f2/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4a21ef2a2469c19dd111280fec8166f2/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ad16c0fa29ddcb1b69cad9c2fc574ff9/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ad16c0fa29ddcb1b69cad9c2fc574ff9/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/9ce1d02f2c24d19c81abbccee2e3d82a/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/9ce1d02f2c24d19c81abbccee2e3d82a/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/0449876e7d471c389e9a72a597219b3b/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/0449876e7d471c389e9a72a597219b3b/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/1c02d209847d702ce29c7c7af34f6742/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/1c02d209847d702ce29c7c7af34f6742/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/c707cb468f958b6be05f9c1d5fd371e1/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/c707cb468f958b6be05f9c1d5fd371e1/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/7236fb4b99b6491ad00b4cd99253e1fc/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/7236fb4b99b6491ad00b4cd99253e1fc/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b79dedb5b87ab1b30ea5deb84dc741b0/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b79dedb5b87ab1b30ea5deb84dc741b0/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/897dd27a8ff33836b67bd884b72044e8/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/897dd27a8ff33836b67bd884b72044e8/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8d14093946a073a4655ca35a7d20f1f8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8d14093946a073a4655ca35a7d20f1f8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/f507181fc56365c0e09b2d5e5e9150f4/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/f507181fc56365c0e09b2d5e5e9150f4/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8dd726b7b38a20cb5439029404037432/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8dd726b7b38a20cb5439029404037432/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/29c63355b84aafd0d65415988c4f121a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/29c63355b84aafd0d65415988c4f121a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/84481a51f7bd7fa9c1e5c9d2876c2c86/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/84481a51f7bd7fa9c1e5c9d2876c2c86/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/7b8ea8a4aeace5812a3aec9d402ef2a3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/7b8ea8a4aeace5812a3aec9d402ef2a3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/cb41912cdb6d65cf600cef7673183ca1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/cb41912cdb6d65cf600cef7673183ca1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4ee484d12199ddbca52b3b8e85387145/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4ee484d12199ddbca52b3b8e85387145/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/c78de3a4955ec4a25b23e0d11d36db40/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/c78de3a4955ec4a25b23e0d11d36db40/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/d27f6085b840924dd4e0fca7d41f4d8c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/d27f6085b840924dd4e0fca7d41f4d8c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/226cef7af3f65d8e1feb6e2a265f88bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/226cef7af3f65d8e1feb6e2a265f88bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/449265d721c92ff5d2b38e2788274c92/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/449265d721c92ff5d2b38e2788274c92/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4bc44d24a4a8a06933969626556211ed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/4bc44d24a4a8a06933969626556211ed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b48270677902f21678d6f6c28a2c62f2/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /Users/yepyaesonetun/.gradle/caches/transforms-2/files-2.1/b48270677902f21678d6f6c28a2c62f2/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yepyaesonetun/Documents/AndroidProjects/JetpackCompose/app/src/main/AndroidManifest.xml
